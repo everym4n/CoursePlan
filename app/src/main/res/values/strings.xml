@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Расписание</string>
+    <string name="all">Все</string>
+    <string name="element_unknown">Неизвестный элемент</string>
+    <string name="week">Неделя %d</string>
+    <string name="date_pattern">dd.MM.yyyy</string>
+    <string name="header_number">№</string>
+    <string name="header_date">Дата</string>
+    <string name="header_subject">Тема</string>
+    <string name="header_lector">Лектор</string>
+    <string-array name="weeks_options">
+        <item>Спрятать недели</item>
+        <item>Показывать недели</item>
+    </string-array>
+</resources>
